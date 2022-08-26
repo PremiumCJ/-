@@ -4,7 +4,7 @@
 앞으로 부동산 시장의 거품이 꺼지고 구매 시점이 온다면, 지역 또는 아파트 선택에 도움이 될 수 있는 인사이트를 찾기 위해 이 프로젝트를 진행하였습니다.
 
 ## 사용 라이브러리
-Pandas, numpy, datetime, plotly, matplotlib
+Pandas, numpy, plotly, matplotlib
 
 ## 사용 데이터
 아파트 실거래가 데이터 (매매, 서울특별시, 2006-2021년) - 국토교통부   
